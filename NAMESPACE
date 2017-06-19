@@ -5,3 +5,6 @@ exportPattern(".")
 import(
   stats
 )
+importFrom("grDevices", "gray.colors")
+importFrom("graphics", "arrows", "axis", "barplot", "matplot", "par",
+             "plot", "points", "text")

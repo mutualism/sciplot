@@ -1,4 +1,5 @@
-1.1-1 Fix to honor subset argument when data option is not specified.
+1.1-1 Fix to honor subset argument when data option is not specified and
+      added details to NAMESPACE file
 1.1-0 Fix to remove unused levels from group factors. Fix to change
       lwd in lineplot.CI when no group factors are specified.
 1.0-9 Fix to remove unused levels from factors. Change default
